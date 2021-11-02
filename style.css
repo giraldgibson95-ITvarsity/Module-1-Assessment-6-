@@ -1,0 +1,26 @@
+h1{
+    background-image: url(images/snap.jpg);
+    font-family:cursive;
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    color:gold;
+}
+a{
+    font-family: cursive;
+    font-weight: bolder;
+    color: darkorchid;
+}
+
+div.navigation
+{
+    padding-left: 500px;
+}
+
+div.gellary{
+    background-color: antiquewhite;
+    color: gold;
+}
+body {
+    background-color: aqua;
+}
